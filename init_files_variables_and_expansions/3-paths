@@ -1,2 +1,2 @@
 #!/bin/bash
-echo Path | wc -l
+echo $Path | wc -l
