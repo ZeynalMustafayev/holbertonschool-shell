@@ -1,2 +1,2 @@
 #!/bin/bash
-alias rot13=""
+alias $ASCII rot13=""
